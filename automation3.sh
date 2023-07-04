@@ -18,3 +18,4 @@ do
         ./mail.sh $line $JAR_RUN $COUNT
     fi
 done
+#this
